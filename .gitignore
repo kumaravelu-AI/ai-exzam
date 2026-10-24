@@ -1,0 +1,24 @@
+# Secrets: configure these in the hosting dashboard, never in Git.
+.env
+.env.*
+!.env.example
+
+# Local Python environments and generated files.
+.venv*/
+__pycache__/
+*.py[cod]
+*.log
+
+# Student records contain user data and do not belong in source control.
+students/
+
+# Local test and verification artifacts.
+codex_*.json
+*_test_*.txt
+bad test*.txt
+tutor-verified.png
+topic-completion.png
+
+# Source documents are not needed by the public runtime.
+knowledge_sources/*
+!knowledge_sources/.gitkeep

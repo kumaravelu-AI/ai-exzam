@@ -1,0 +1,63 @@
+{
+  "subject": "science",
+  "level": "year6",
+  "topic": "microorganisms",
+  "document_count": 5,
+  "chunks": [
+    {
+      "chunk_id": "c608fedd03621da8fbbe27328d4da2f9",
+      "subject": "science",
+      "level": "year6",
+      "topic": "microorganisms",
+      "source_file": "science\\year6\\microorganisms\\notes\\intro.txt",
+      "source_name": "intro.txt",
+      "chunk_index": 0,
+      "chunk_type": "note",
+      "text": "Microorganisms are tiny living things. They are too small to be seen clearly with the naked eye. Examples of microorganisms include bacteria, fungi, protozoa, and some algae. Some microorganisms are useful. For example, bacteria can help make yogurt and bread production can involve yeast. Some microorganisms are harmful. They can spoil food or cause disease. Students should understand: 1. microorganisms are tiny living things 2. not all microorganisms are harmful 3. some microorganisms are useful in daily life"
+    },
+    {
+      "chunk_id": "fe339be16f0f92b8758b0e5c0f40bcaa",
+      "subject": "science",
+      "level": "year6",
+      "topic": "microorganisms",
+      "source_file": "science\\year6\\microorganisms\\notes\\note.txt",
+      "source_name": "note.txt",
+      "chunk_index": 0,
+      "chunk_type": "note",
+      "text": "Microorganisms are tiny living things. They are so small that we cannot see them clearly with our eyes. Examples of microorganisms include bacteria, fungi, and yeast. Some microorganisms are useful, such as bacteria used to make yogurt. Some microorganisms are harmful and can cause diseases. Microorganisms can spread through air, water, or food."
+    },
+    {
+      "chunk_id": "c8724dcbc4e002d156834d2fc266584b",
+      "subject": "science",
+      "level": "year6",
+      "topic": "microorganisms",
+      "source_file": "science\\year6\\microorganisms\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 0,
+      "chunk_type": "question_bank",
+      "text": "[SHEET] Questions question_id | subject | level | topic | concept | difficulty | question_type | question_text | expected_answer | keywords | hint | explanation | misconception_tag | followup_question_id | marks | mode micro_q1 | science | year6 | microorganisms | types | easy | short_answer | What are microorganisms? | tiny living things,too small to be seen clearly | tiny,living things,small | Think about size. | Microorganisms are very small living things that cannot be seen with naked eyes | thinks_not_living | micro_q1b | 2 | both micro_q1b | science | year6 | microorganisms | types | easy | mcq | Which one is a microorganism? | bacteria | bacteria | Choose the tiny living thing. | Bacteria is a microorganism. | confuses_examples | 1 | learning micro_q2 | science | year6 | microorganisms | harmful_vs_useful | easy | short_answer | Are all microorganisms harmful? Explain. | no,some a"
+    },
+    {
+      "chunk_id": "f765924df47ab6b39d4472be343ae7ad",
+      "subject": "science",
+      "level": "year6",
+      "topic": "microorganisms",
+      "source_file": "science\\year6\\microorganisms\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 1,
+      "chunk_type": "question_bank",
+      "text": " year6 | microorganisms | harmful_vs_useful | easy | short_answer | Are all microorganisms harmful? Explain. | no,some are useful | no,useful,harmful | Think about yogurt or bread. | Not all microorganisms are harmful. Some are useful. | all_harmful | micro_q2b | 2 | both micro_q2b | science | year6 | microorganisms | harmful_vs_useful | easy | mcq | True or false: All microorganisms are harmful. | false | false | Remember useful examples. | Some microorganisms are useful. | all_harmful | 1 | learning micro_q3 | science | year6 | microorganisms | daily_life_examples | medium | short_answer | Give one example of a useful microorganism in daily life. | bacteria in yogurt,yeast in bread | yogurt,yeast,bread,bacteria | Think about food. | Useful microorganisms help in food making such as yogurt and bread. | no_useful_example | 2 | both micro_q4 | science | year6 | microorganisms | daily_life"
+    },
+    {
+      "chunk_id": "0ca9e417758e1ae3c8ffb39fea27197f",
+      "subject": "science",
+      "level": "year6",
+      "topic": "microorganisms",
+      "source_file": "science\\year6\\microorganisms\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 2,
+      "chunk_type": "question_bank",
+      "text": "making such as yogurt and bread. | no_useful_example | 2 | both micro_q4 | science | year6 | microorganisms | daily_life_examples | medium | short_answer | How can harmful microorganisms affect us? | cause disease,spoil food | disease,spoil food,sick | Think about bad food or sickness. | Harmful microorganisms can spoil food or make us sick. | unclear_harm | 2 | exam micro_q5 | science | year6 | microorganisms | types | medium | short_answer | Why can’t we see microorganisms clearly with our eyes? | they are too small | too small,tiny | Think about size again. | They are too tiny to be seen clearly. | size_confusion | 2 | exam"
+    }
+  ]
+}

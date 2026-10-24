@@ -1,0 +1,206 @@
+{
+  "subject": "science",
+  "level": "year6",
+  "topic": "living_things_and_environment",
+  "document_count": 18,
+  "chunks": [
+    {
+      "chunk_id": "f11f3ced36fcd7477bfd425c35d004f8",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\notes\\note.txt",
+      "source_name": "note.txt",
+      "chunk_index": 0,
+      "chunk_type": "note",
+      "text": "Living Things and Environment (Year 6) Food Chain: A food chain shows how food moves from one living thing to another. Plants are producers. Animals are consumers. Competition: Living things compete for food, water, space and mates. Relationships: Parasitism means one organism benefits and the other is harmed. Adaptation: Plants have special features like small leaves and deep roots to survive. Investigation: Manipulated variable is what we change. Responding variable is what we observe."
+    },
+    {
+      "chunk_id": "cb0373216905e2bd85b4892dba876066",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 0,
+      "chunk_type": "question_bank",
+      "text": "[SHEET] Questions question_id | subject | level | topic | concept | difficulty | question_type | question_text | expected_answer | keywords | hint | explanation | misconception_tag lte_q1 | science | year6 | living_things_and_environment | food_chain | easy | short_answer | What is a food chain? | food passing from one living thing to another | food chain,food,passes,living things | Think about who eats whom. | A food chain shows how food passes from one living thing to another. | food_chain_unclear lte_q2 | science | year6 | living_things_and_environment | food_chain | easy | short_answer | What does the arrow in a food chain show? | direction of food flow | arrow,direction,food flow | Look at the direction of the arrow. | The arrow shows the direction in which food or energy moves. | arrow_confusion lte_q3 | science | year6 | living_things_and_environment | producer | easy | short_answ"
+    },
+    {
+      "chunk_id": "94b85d17e6b3051efff018175f748852",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 1,
+      "chunk_type": "question_bank",
+      "text": " energy moves. | arrow_confusion lte_q3 | science | year6 | living_things_and_environment | producer | easy | short_answer | Who is the producer in a food chain? | plant | plant,producer | The producer makes its own food. | Plants are producers because they make their own food. | producer_confusion lte_q4 | science | year6 | living_things_and_environment | consumer | easy | short_answer | Who is a consumer in a food chain? | animal | animal,consumer | Consumers eat plants or animals. | Animals are consumers because they eat other living things. | consumer_confusion lte_q5 | science | year6 | living_things_and_environment | food_chain | medium | short_answer | Arrange this food chain: paddy plant, rat, snake, eagle. | paddy plant -> rat -> snake -> eagle | paddy plant,rat,snake,eagle | Start with the plant. | The correct order is paddy plant, rat, snake and eagle. | sequence_confusion lte"
+    },
+    {
+      "chunk_id": "a6361554451998e4fc445d243b84c19c",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 2,
+      "chunk_type": "question_bank",
+      "text": "t,snake,eagle | Start with the plant. | The correct order is paddy plant, rat, snake and eagle. | sequence_confusion lte_q6 | science | year6 | living_things_and_environment | food_chain | medium | short_answer | Arrange this food chain: grass, grasshopper, bird. | grass -> grasshopper -> bird | grass,grasshopper,bird | Start with the plant. | The correct order is grass, grasshopper and bird. | sequence_confusion lte_q7 | science | year6 | living_things_and_environment | food_chain | medium | short_answer | Name three consumers shown in the paddy plant food chain. | rat, snake, eagle | rat,snake,eagle | Do not include the plant. | Rat, snake and eagle are consumers in the food chain. | consumer_examples lte_q8 | science | year6 | living_things_and_environment | feeding_type | easy | short_answer | What is a herbivore? | animal that eats plants only | herbivore,plants | Think about deer o"
+    },
+    {
+      "chunk_id": "5fb186ee34be86f7eb57acc05f7b94e7",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 3,
+      "chunk_type": "question_bank",
+      "text": "type | easy | short_answer | What is a herbivore? | animal that eats plants only | herbivore,plants | Think about deer or cow. | A herbivore eats plants only. | herbivore_confusion lte_q9 | science | year6 | living_things_and_environment | feeding_type | easy | short_answer | What is a carnivore? | animal that eats other animals | carnivore,animals,meat | Think about lion or tiger. | A carnivore eats other animals. | carnivore_confusion lte_q10 | science | year6 | living_things_and_environment | feeding_type | easy | short_answer | What is an omnivore? | animal that eats plants and animals | omnivore,plants,animals,both | Think about humans. | An omnivore eats both plants and animals. | omnivore_confusion lte_q11 | science | year6 | living_things_and_environment | feeding_type | easy | short_answer | What type of feeder is a deer? | herbivore | deer,herbivore,plants | A deer eats grass a"
+    },
+    {
+      "chunk_id": "199c4c98d017b078a722e8dfdbd52055",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 4,
+      "chunk_type": "question_bank",
+      "text": "ng_type | easy | short_answer | What type of feeder is a deer? | herbivore | deer,herbivore,plants | A deer eats grass and plants. | A deer is a herbivore. | feeder_confusion lte_q12 | science | year6 | living_things_and_environment | feeding_type | easy | short_answer | What type of feeder is a cow? | herbivore | cow,herbivore,plants | A cow eats grass. | A cow is a herbivore. | feeder_confusion lte_q13 | science | year6 | living_things_and_environment | feeding_type | easy | short_answer | What type of feeder is a tiger? | carnivore | tiger,carnivore | A tiger eats other animals. | A tiger is a carnivore. | feeder_confusion lte_q14 | science | year6 | living_things_and_environment | feeding_type | easy | short_answer | What type of feeder is a lion? | carnivore | lion,carnivore | A lion eats other animals. | A lion is a carnivore. | feeder_confusion lte_q15 | science | year6 | living_t"
+    },
+    {
+      "chunk_id": "1e55206d4d401d5e67ca86b2fed9b702",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 5,
+      "chunk_type": "question_bank",
+      "text": ",carnivore | A lion eats other animals. | A lion is a carnivore. | feeder_confusion lte_q15 | science | year6 | living_things_and_environment | feeding_type | easy | short_answer | What type of feeder is a human? | omnivore | human,omnivore | Humans can eat plants and animals. | A human is an omnivore. | feeder_confusion lte_q16 | science | year6 | living_things_and_environment | competition | easy | short_answer | What is competition among living things? | living things need the same resource | competition,same resource | Think about food, water or space. | Competition happens when living things need the same resource. | competition_definition lte_q17 | science | year6 | living_things_and_environment | competition | easy | short_answer | List two resources animals compete for. | food, water | food,water | Think about basic needs. | Animals can compete for food and water. | resource_exam"
+    },
+    {
+      "chunk_id": "91577f02799f0c777d8ee40c9f844df4",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 6,
+      "chunk_type": "question_bank",
+      "text": "ete for. | food, water | food,water | Think about basic needs. | Animals can compete for food and water. | resource_examples lte_q18 | science | year6 | living_things_and_environment | competition | easy | short_answer | List another two resources animals compete for. | space, mate | space,mate | Think about where animals live and reproduction. | Animals can also compete for space and mates. | resource_examples lte_q19 | science | year6 | living_things_and_environment | competition | easy | short_answer | Several deer drink from the same water source. What are they competing for? | water | water,deer,competition | Look at what the deer are using. | The deer are competing for water. | water_competition lte_q20 | science | year6 | living_things_and_environment | competition | easy | short_answer | Roosters are fighting. What interaction is shown? | competition | competition,fighting,rooste"
+    },
+    {
+      "chunk_id": "6c4fd690b03a551b0339b40fc66ac857",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 7,
+      "chunk_type": "question_bank",
+      "text": "on | easy | short_answer | Roosters are fighting. What interaction is shown? | competition | competition,fighting,roosters | Fighting can show competition. | The roosters are competing. | competition_picture lte_q21 | science | year6 | living_things_and_environment | competition | easy | short_answer | Lions are fighting. What interaction is shown? | competition | competition,lions,fighting | Fighting can show competition. | The lions are competing. | competition_picture lte_q22 | science | year6 | living_things_and_environment | competition | medium | short_answer | When food decreases, what happens to competition? | competition increases | competition,increases,food decreases | Less food means more animals want the same food. | When food is less, competition increases. | competition_food lte_q23 | science | year6 | living_things_and_environment | competition | medium | short_answer | W"
+    },
+    {
+      "chunk_id": "0dab6391e6a6ca03f95889f1dcdb3400",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 8,
+      "chunk_type": "question_bank",
+      "text": ". | competition_food lte_q23 | science | year6 | living_things_and_environment | competition | medium | short_answer | Why do animals compete when food is limited? | because many animals need the same food | same food,limited,need | Think about limited resources. | Animals compete because many animals need the same limited food. | competition_reason lte_q24 | science | year6 | living_things_and_environment | relationship | easy | short_answer | What is parasitism? | one organism benefits and the other is harmed | parasitism,benefits,harmed | Think about a tick and cow. | Parasitism is a relationship where one benefits and the other is harmed. | parasitism_definition lte_q25 | science | year6 | living_things_and_environment | relationship | easy | short_answer | What relationship is shown by a tick on a cow? | parasitism | tick,cow,parasitism | The tick gets benefit from the cow. | A tick"
+    },
+    {
+      "chunk_id": "07bc635e17709b1276e6ce60822358e2",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 9,
+      "chunk_type": "question_bank",
+      "text": "ationship is shown by a tick on a cow? | parasitism | tick,cow,parasitism | The tick gets benefit from the cow. | A tick on a cow is parasitism. | tick_cow lte_q26 | science | year6 | living_things_and_environment | relationship | medium | short_answer | Why is a tick on a cow called parasitism? | tick benefits and cow is harmed | tick benefits,cow harmed | Mention both organisms. | The tick benefits while the cow is harmed. | tick_cow_reason lte_q27 | science | year6 | living_things_and_environment | relationship | medium | short_answer | What relationship is shown between shark and remora fish? | commensalism | shark,remora,commensalism | The remora gets benefit. | The remora benefits from the shark without harming it. | remora_confusion lte_q28 | science | year6 | living_things_and_environment | adaptation | easy | short_answer | What is plant adaptation? | special feature that helps "
+    },
+    {
+      "chunk_id": "5b0abf9b391ef82dd9ffe89d4820ae05",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 10,
+      "chunk_type": "question_bank",
+      "text": "ving_things_and_environment | adaptation | easy | short_answer | What is plant adaptation? | special feature that helps a plant survive | adaptation,survive,special feature | Think about how plants live in their habitat. | Plant adaptation is a special feature that helps a plant survive. | adaptation_definition lte_q29 | science | year6 | living_things_and_environment | adaptation | easy | short_answer | Name one adaptation of plants in dry areas. | small leaves | small leaves,thorns,deep roots,thick stem | Think about saving water. | Small leaves are one adaptation of dry area plants. | dry_adaptation lte_q30 | science | year6 | living_things_and_environment | adaptation | easy | short_answer | Name another adaptation of plants in dry areas. | deep roots | deep roots,thorns,thick stem,small leaves | Think about absorbing water. | Deep roots help plants absorb water. | dry_adaptation lte"
+    },
+    {
+      "chunk_id": "424922503b9c5f9014b9ba6f353a69b4",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 11,
+      "chunk_type": "question_bank",
+      "text": "horns,thick stem,small leaves | Think about absorbing water. | Deep roots help plants absorb water. | dry_adaptation lte_q31 | science | year6 | living_things_and_environment | adaptation | medium | short_answer | Why do some dry area plants have small leaves or thorns? | to reduce water loss | reduce water loss,small leaves,thorns | Think about saving water. | Small leaves and thorns help reduce water loss. | water_loss lte_q32 | science | year6 | living_things_and_environment | adaptation | medium | short_answer | Why do large trees have strong roots? | to support the tree and absorb water | strong roots,support,absorb water | Think about holding the plant firmly. | Strong roots support the tree and help absorb water. | root_function lte_q33 | science | year6 | living_things_and_environment | habitat | easy | short_answer | Name two living things found in a forest habitat. | bird, tree"
+    },
+    {
+      "chunk_id": "9e24a33c84e932543a6ba02e3394e6eb",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 12,
+      "chunk_type": "question_bank",
+      "text": "_things_and_environment | habitat | easy | short_answer | Name two living things found in a forest habitat. | bird, tree | bird,tree,plant,insect,animal | Look at plants and animals in the forest. | A forest habitat contains trees and animals such as birds. | habitat_examples lte_q34 | science | year6 | living_things_and_environment | habitat | medium | short_answer | Why are there more small plants in some open places? | because they get enough sunlight | sunlight,open place,plants | Think about sunlight. | Small plants grow well when they get enough sunlight. | plant_growth_reason lte_q35 | science | year6 | living_things_and_environment | investigation | easy | short_answer | What is a manipulated variable? | what is changed | manipulated,changed | It is the factor changed in the experiment. | The manipulated variable is what we change. | variable_confusion lte_q36 | science | year6 |"
+    },
+    {
+      "chunk_id": "fb1a8f5f3b28626f4e603c597dd3b844",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 13,
+      "chunk_type": "question_bank",
+      "text": "hanged in the experiment. | The manipulated variable is what we change. | variable_confusion lte_q36 | science | year6 | living_things_and_environment | investigation | easy | short_answer | What is a responding variable? | what is observed or measured | responding,observed,measured | It is the result we observe. | The responding variable is what we observe or measure. | variable_confusion lte_q37 | science | year6 | living_things_and_environment | investigation | medium | short_answer | In a seed experiment, if the number of seeds is changed, what is the manipulated variable? | number of seeds | number of seeds,manipulated | Look at what is changed. | The manipulated variable is the number of seeds. | seed_variable lte_q38 | science | year6 | living_things_and_environment | investigation | medium | short_answer | In a seed experiment, if plant height is measured, what is the responding "
+    },
+    {
+      "chunk_id": "e3744cdb856fb48a2af958be5c3e5189",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 14,
+      "chunk_type": "question_bank",
+      "text": "ent | investigation | medium | short_answer | In a seed experiment, if plant height is measured, what is the responding variable? | plant height | plant height,height,responding | Look at what is measured. | The responding variable is plant height. | seed_variable lte_q39 | science | year6 | living_things_and_environment | investigation | medium | short_answer | Pot A has 10 seeds and plants grow 50 cm. Pot B has 20 seeds and plants grow 30 cm. Pot C has 30 seeds and plants grow 20 cm. What is the trend? | more seeds cause shorter plant growth | more seeds,shorter growth,decrease | Compare number of seeds and height. | As the number of seeds increases, the plant height decreases. | trend_confusion lte_q40 | science | year6 | living_things_and_environment | investigation | hard | short_answer | Why do plants grow shorter when more seeds are planted in one pot? | more competition for space"
+    },
+    {
+      "chunk_id": "48d89a1d7221adb95ecef23dee1913fc",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 15,
+      "chunk_type": "question_bank",
+      "text": " | hard | short_answer | Why do plants grow shorter when more seeds are planted in one pot? | more competition for space, water and nutrients | competition,space,water,nutrients,shorter | Think about competition among plants. | More seeds cause more competition for space, water and nutrients, so plants grow shorter. | seed_competition lte_q41 | science | year6 | living_things_and_environment | fair_test | medium | short_answer | What must be kept the same in a fair test? | other variables | same variables,fair test | Only one factor should change. | A fair test keeps other variables the same. | fair_test_confusion lte_q42 | science | year6 | living_things_and_environment | competition | medium | short_answer | Two animals hunting the same prey are competing for what? | food | food,prey,competition | The prey is food. | They are competing for food. | prey_competition lte_q43 | science | y"
+    },
+    {
+      "chunk_id": "0c75584893bcc708ed6c4b4df8274908",
+      "subject": "science",
+      "level": "year6",
+      "topic": "living_things_and_environment",
+      "source_file": "science\\year6\\living_things_and_environment\\questions\\question_bank.xlsx",
+      "source_name": "question_bank.xlsx",
+      "chunk_index": 16,
+      "chunk_type": "question_bank",
+      "text": "food | food,prey,competition | The prey is food. | They are competing for food. | prey_competition lte_q43 | science | year6 | living_things_and_environment | competition | easy | short_answer | Two birds pulling the same worm are competing for what? | food | food,worm,birds | The worm is food. | The birds are competing for food. | food_competition lte_q44 | science | year6 | living_things_and_environment | food_chain | medium | short_answer | In the chain plant -> rat -> snake, which organism eats the rat? | snake | snake,rat | Look at the organism after rat. | The snake eats the rat. | chain_reading lte_q45 | science | year6 | living_things_and_environment | food_chain | medium | short_answer | In the chain plant -> rat -> snake, what does the rat eat? | plant | plant,rat | Look at the organism before rat. | The rat eats the plant. | chain_reading"
+    }
+  ]
+}

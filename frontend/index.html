@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI EXZAM MVP</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <h1>AI EXZAM</h1>
+      <p class="muted">Adaptive student tutor + exam chatbot</p>
+
+      <label>Student ID</label>
+      <input id="studentId" autocomplete="off" />
+
+      <label>Student Name</label>
+      <input id="studentName" value="Student" />
+
+      <label>Subject</label>
+      <input id="subject" value="science" />
+
+      <label>Level</label>
+      <input id="level" value="year6" />
+
+      <label>Topic</label>
+      <div class="topic-picker">
+        <select id="topic">
+          <option value="">Loading topics...</option>
+        </select>
+        <button id="reloadTopicsBtn" type="button">Reload Topics</button>
+      </div>
+      <p id="topicStatus" class="muted topic-status">Loading available topics...</p>
+
+      <label>Mode</label>
+      <select id="mode">
+        <option value="learning">learning</option>
+        <option value="exam">exam</option>
+      </select>
+
+      <details id="manageContent"><summary>Manage lesson content</summary>
+      <button id="rebuildBtn">Rebuild Index</button>
+      <button id="generateKnowledgeBtn">Generate Knowledgebase</button>
+      </details>
+      <button id="startBtn" class="primary">Start Session</button>
+      <button id="snapshotBtn">Load Student Snapshot</button>
+
+      <div class="card">
+        <h3>Quick clarify</h3>
+        <textarea id="clarifyAsk" rows="4" placeholder="Explain easier..."></textarea>
+        <button id="clarifyBtn">Ask Clarification</button>
+      </div>
+
+      <div class="card">
+        <h3>Progress</h3>
+        <pre id="progressBox">{}</pre>
+      </div>
+    </aside>
+
+    <main class="main">
+      <div class="chat-header">
+        <div>
+          <h2>Chat</h2>
+          <p class="muted" id="tutorStatus">Checking tutor…</p>
+        </div>
+      </div>
+
+      <div id="chatBox" class="chat-box"></div>
+
+      <div class="composer">
+        <textarea id="messageInput" rows="3" placeholder="Type student answer here..."></textarea>
+        <button id="sendBtn" class="primary">Send</button>
+      </div>
+    </main>
+  </div>
+
+  <script src="/app.js?v=tutor-v2"></script>
+</body>
+</html>
